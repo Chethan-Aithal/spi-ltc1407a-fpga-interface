@@ -1,0 +1,1 @@
+# SPI-Interface-for-LTC1407A-ADC-and-Temperature-Sensor-using-Spartan-3E-FPGA
