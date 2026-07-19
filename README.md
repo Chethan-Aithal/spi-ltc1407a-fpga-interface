@@ -135,23 +135,6 @@ Clock Cycles
 
 ---
 
-## Project Structure
-
-```
-SPI_ADC/
-│
-├── SPI_ADC.v
-├── Temperature_Sensor.v
-├── Top_Module.v
-├── Constraints.xdc
-├── Testbench/
-│   └── SPI_ADC_tb.v
-├── Images/
-├── README.md
-└── LICENSE
-```
-
----
 
 ## Outputs
 
@@ -208,10 +191,10 @@ SPI_ADC/
 
 B.E. Electronics and Communication Engineering
 
-Interested in RTL Design • FPGA Design • ASIC Design
+Interested in RTL Design • FPGA Design • ASIC Design  • Verification
 
 ---
-
-## License
-
-This project is intended for educational and research purposes.
+Author:
+Chethan Aithal
+Credits:
+Youtube,AMD
